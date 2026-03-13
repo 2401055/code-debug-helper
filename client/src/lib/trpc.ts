@@ -1,2 +1,4 @@
-// TRPC is not used in static projects
-// This file is kept for compatibility purposes
+import { createTRPCReact } from "@trpc/react-query";
+import type { AppRouter } from "../../../server/routers";
+
+export const trpc = createTRPCReact<AppRouter>();

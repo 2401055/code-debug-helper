@@ -73,11 +73,11 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
                   <button className="flex items-center gap-2 rounded-full hover:bg-accent p-1 transition-colors">
                     <Avatar className="h-7 w-7 border border-border">
                       <AvatarFallback className="text-xs font-medium bg-primary/15 text-primary">
-                        {(user as any)?.name?.charAt(0).toUpperCase() || "U"}
+                        {user.name?.charAt(0).toUpperCase() || "U"}
                       </AvatarFallback>
                     </Avatar>
                     <span className="text-sm font-medium hidden sm:block pr-1">
-                      {(user as any)?.name || "User"}
+                      {user.name || "User"}
                     </span>
                   </button>
                 </DropdownMenuTrigger>
