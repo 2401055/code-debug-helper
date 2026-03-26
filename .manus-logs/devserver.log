@@ -1,0 +1,19 @@
+[2026-03-26T04:54:17.549Z] Starting dev server with command: pnpm run dev
+[2026-03-26T04:54:18.558Z] 
+[2026-03-26T04:54:18.559Z] > code-debug-helper@1.0.0 dev /home/ubuntu/code-debug-helper
+[2026-03-26T04:54:18.559Z] > vite --host
+[2026-03-26T04:54:18.559Z] 
+[2026-03-26T04:54:19.225Z] 
+[2026-03-26T04:54:19.226Z] VITE v7.1.9  ready in 622 ms
+[2026-03-26T04:54:19.226Z] 
+[2026-03-26T04:54:19.227Z] ➜  Local:   http://localhost:3000/
+[2026-03-26T04:54:19.228Z] ➜  Network: http://169.254.0.21:3000/
+[2026-03-26T04:55:10.668Z] 12:55:10 AM [vite] vite.config.ts changed, restarting server...
+[2026-03-26T04:55:10.702Z] 12:55:10 AM [vite] server restarted.
+[2026-03-26T04:55:42.194Z] 12:55:42 AM [vite] vite.config.ts changed, restarting server...
+[2026-03-26T04:55:42.194Z] 12:55:42 AM [vite] (client) page reload index.html
+[2026-03-26T04:55:42.207Z] 12:55:42 AM [vite] server restarted.
+[2026-03-26T04:55:42.208Z] 
+[2026-03-26T04:55:42.208Z] ➜  Local:   http://localhost:5173/
+[2026-03-26T04:55:42.209Z] ➜  Network: http://169.254.0.21:5173/
+[2026-03-26T04:55:47.208Z] 12:55:47 AM [vite] (client) page reload index.html
